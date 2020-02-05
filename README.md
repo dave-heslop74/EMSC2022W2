@@ -1,1 +1,1 @@
-#Heat flow and ocean depth
+## This is the Jupyter Notebook for EMSC2022 - Week 2
